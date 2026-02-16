@@ -1,7 +1,7 @@
 # cypheria-menu
 a gui python tool , made for students to have privacy on school computers
 
-## Features 
+# Features 
 
 # password protected 🔐
 
